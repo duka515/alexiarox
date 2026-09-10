@@ -1,4 +1,4 @@
 .cta,.funnel-btn{background:linear-gradient(90deg,#ff4ec8,#ff2ea8 50%,#ff6ad5)!important;color:#fff!important;border:0!important;border-radius:999px!important;animation:joinPulse 1.6s ease-out infinite}
-.cta{padding:16px 20px!important}.cta-copy strong,.cta-copy small{display:block;color:#fff!important}
+.cta{padding:16px 20px!important}.cta-copy strong,.cta-copy small,.cta .arrow{color:#fff!important}
 .funnel-btn{display:block;width:100%;cursor:pointer;padding:16px 18px;font-weight:800}
 @keyframes joinPulse{0%{box-shadow:0 0 0 0 rgba(255,46,168,.55)}70%{box-shadow:0 0 0 16px rgba(255,46,168,0)}100%{box-shadow:0 0 0 0 rgba(255,46,168,0)}}
